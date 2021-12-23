@@ -10,5 +10,9 @@ int main(){
      over two lines. */
     int answer {1996};
     std::cout <<" The answer is " << answer << std::endl;
+    /*************\
+     Another style
+     of comments
+    \*************/
     return 0;
 }
